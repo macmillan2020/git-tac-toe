@@ -3,7 +3,7 @@ export const o = "⭕️";
 
 const moves = [
 	[[o], [], [x]], 
-	[[], [], [o]], 
+	[[], [x], [o]], 
 	[[x], [o], [x]]
 ];
 
